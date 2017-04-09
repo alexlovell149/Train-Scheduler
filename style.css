@@ -1,0 +1,27 @@
+.jumbotron {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	width: 92%;
+	margin-left: 45px;
+}
+
+.panel-heading {
+	background-color: blue;
+	color: white;
+}
+
+table,th,tr,td {
+	border: 3px solid black;
+	background-color: white;
+}
+
+.table {
+	border: 3px solid black;
+}
+
+body {
+	background-image: url(https://c1.staticflickr.com/5/4012/4305794496_58c2d71733_b.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
